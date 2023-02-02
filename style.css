@@ -69,7 +69,6 @@ H1 {
 }
 article {
     display: flex;
-    height: 562px;
 }
 .content-artikel1 {
     display: flex;
@@ -116,6 +115,7 @@ article {
 }
 .telor {
     width: 100%;
+    height: 100%;
 }
 .content-artikel2 {
     display: flex;
@@ -136,6 +136,7 @@ article {
 }
 .gelas {
     width: 100%;
+    height: 100%;
 }
 .learn1 {
     text-transform: uppercase;
