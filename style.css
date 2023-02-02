@@ -9,7 +9,6 @@
 }
 body {
     font-size: 18px;
-    overflow-x: hidden ;
 }
 header {
     background-image: url(./images/desktop/image-header.jpg);
@@ -73,6 +72,7 @@ article {
 }
 .content-artikel1 {
     display: flex;
+    height: height: 563px;
 }
 .h3-artikel {
     font-size: 40px;
@@ -119,6 +119,7 @@ article {
 }
 .content-artikel2 {
     display: flex;
+    height: height: 563px;
 }
 .text-artikel2 {
     display: flex;
@@ -274,7 +275,7 @@ article {
     display: flex;
 }
 .img-gallery {
-    width: 21.1rem;
+    width: 25%;
 }
 footer {
     height: 20rem;
