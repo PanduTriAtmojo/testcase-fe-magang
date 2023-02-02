@@ -153,13 +153,13 @@ article {
     display: flex;
 }
 .img-apel {
-    background-image: url(/images/desktop/image-graphic-design.jpg);
+    background-image: url(./images/desktop/image-graphic-design.jpg);
     height: 80vb;
     width: 50%;
     display: flex;
 }
 .img-jeruk {
-    background-image: url(/images/desktop/image-photography.jpg);
+    background-image: url(./images/desktop/image-photography.jpg);
     height: 80vb;
     width: 50%;
     display: flex;
